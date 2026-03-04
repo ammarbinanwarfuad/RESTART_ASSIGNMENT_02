@@ -1,0 +1,119 @@
+[
+  {
+    "id": "2001",
+    "title": "Cannot Access Admin Dashboard",
+    "description": "Customer reports being unable to reach the admin dashboard after a recent password change. The page returns a 403 Forbidden error every time.",
+    "customer": "Tariq Hassan",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "3/1/2026"
+  },
+  {
+    "id": "2002",
+    "title": "Duplicate Charge on Invoice",
+    "description": "Customer was billed twice for the same order placed on February 28th. They are requesting an immediate refund for the duplicate transaction.",
+    "customer": "Nadia Rahman",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "3/1/2026"
+  },
+  {
+    "id": "2003",
+    "title": "Profile Picture Upload Failing",
+    "description": "Every time the customer tries to upload a new profile picture, they receive a 'File too large' error even though the image is under 1MB.",
+    "customer": "Farhan Iqbal",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "3/1/2026"
+  },
+  {
+    "id": "2004",
+    "title": "Notification Emails Going to Spam",
+    "description": "The customer has confirmed that all system notification emails are landing in their spam folder. They need help with email whitelisting instructions.",
+    "customer": "Sadia Islam",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "3/2/2026"
+  },
+  {
+    "id": "2005",
+    "title": "App Freezing on Checkout Page",
+    "description": "The mobile application freezes completely when the customer tries to proceed from the cart to the checkout page. Happens on both iOS and Android.",
+    "customer": "Arif Chowdhury",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "3/2/2026"
+  },
+  {
+    "id": "2006",
+    "title": "Unable to Cancel Active Subscription",
+    "description": "Customer wants to cancel their monthly plan but the cancel button is greyed out in account settings. They need the subscription stopped before next billing cycle.",
+    "customer": "Maliha Karim",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "3/2/2026"
+  },
+  {
+    "id": "2007",
+    "title": "Search Results Not Loading",
+    "description": "The search bar on the product page returns a blank screen instead of results. The issue started after the latest platform update on March 1st.",
+    "customer": "Zubayer Ahmed",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "3/2/2026"
+  },
+  {
+    "id": "2008",
+    "title": "Wrong Item Delivered",
+    "description": "Customer ordered a blue jacket (size L) but received a red hoodie (size M). They need an exchange arranged as soon as possible.",
+    "customer": "Tasnim Akter",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "3/3/2026"
+  },
+  {
+    "id": "2009",
+    "title": "Password Reset Link Not Arriving",
+    "description": "Customer has requested a password reset three times but never receives the email. Their account is currently inaccessible.",
+    "customer": "Rafid Hossain",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "3/3/2026"
+  },
+  {
+    "id": "2010",
+    "title": "CSV Data Export Producing Empty File",
+    "description": "When the customer exports their order history as a CSV, the downloaded file is completely empty. The feature was working fine two weeks ago.",
+    "customer": "Sumaiya Begum",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "3/3/2026"
+  },
+  {
+    "id": "2011",
+    "title": "Two-Factor Authentication Code Invalid",
+    "description": "The 6-digit 2FA code sent via SMS is being rejected as invalid even when entered immediately. Customer is locked out of their account.",
+    "customer": "Imran Hussain",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "3/3/2026"
+  },
+  {
+    "id": "2012",
+    "title": "Dashboard Charts Not Displaying",
+    "description": "All analytics charts on the customer dashboard are showing a blank white box with no data. The rest of the page loads correctly.",
+    "customer": "Bristy Roy",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "3/4/2026"
+  },
+  {
+    "id": "2013",
+    "title": "Promo Code Not Applying Discount",
+    "description": "Customer has a valid promo code for 20% off but the discount is not being applied at checkout. The code is confirmed active until end of March.",
+    "customer": "Shakil Mahmud",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "3/4/2026"
+  }
+]
