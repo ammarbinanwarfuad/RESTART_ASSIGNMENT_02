@@ -6,8 +6,8 @@ A modern, responsive customer support ticket management system built with **Reac
 
 ## 🚀 Live Link & Repository
 
-- **Live Link:** YOUR_DEPLOYED_URL_HERE
-- **GitHub Repository:** YOUR_REPO_URL_HERE
+- **Live Link:** [https://restart-assignment-02.vercel.app/](https://restart-assignment-02.vercel.app/)
+- **GitHub Repository:** [https://github.com/ammarbinanwarfuad/RESTART_ASSIGNMENT_02](https://github.com/ammarbinanwarfuad/RESTART_ASSIGNMENT_02)
 
 ---
 
